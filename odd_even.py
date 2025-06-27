@@ -1,3 +1,3 @@
-a = int(input("Enter number"))
-b = ["even","odd"]
-print (b[a%2])
+number = int(input("Enter number"))
+odd_even = [True,False]
+print (odd_even[number%2])
