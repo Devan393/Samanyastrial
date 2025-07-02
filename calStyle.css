@@ -1,0 +1,25 @@
+.box{
+    padding: 30px;
+    background-color: aqua;
+    margin: 10px;
+    border-radius: 10px;
+}
+.date{
+    text-align:center;
+}
+.day{
+    text-align: bottom;
+}
+.calendar{
+    padding: 10px;
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box:hover{
+    /*margin: 20px red;*/
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+}
